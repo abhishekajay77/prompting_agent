@@ -2,3 +2,5 @@ python-dotenv
 Pillow
 openai
 streamlit
+grok
+
